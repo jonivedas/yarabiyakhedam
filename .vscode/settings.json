@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1bf6e73a-4385-4bbb-af58-d22e56399361/resourceGroups/appsvc_linux_eastus/providers/Microsoft.Web/sites/virushada",
+    "appService.deploySubpath": "."
+}
